@@ -17,7 +17,7 @@ describe('Controller: MainCtrl', function () {
       $scope: scope
     });
     $httpBackend.flush();
-    
+
   }));
 
   it('should increment slide index', function() {
