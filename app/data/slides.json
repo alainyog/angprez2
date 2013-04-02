@@ -57,6 +57,10 @@
     "content":"repeater.html"
   },
   {
+    "title":"Recherche de slide",
+    "content":"repeat.html"
+  },
+  {
     "title":"Filtres",
     "content":"filter.html"
   }

@@ -1,0 +1,8 @@
+<div class="container">
+    <br><br><br>
+
+    <div class="note" ng-repeat="s in slides">
+      <a ng-bind-html-unsafe="s.title" ng-click="gotoSlide(s)"></a>
+      <br>
+    </div>
+</div>

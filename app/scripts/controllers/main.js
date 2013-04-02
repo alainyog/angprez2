@@ -22,6 +22,10 @@ angular.module('angprez2App')
       return $scope.slides[$scope.slideIndex].content;
     };
 
+    $scope.gotoSlide = function(s) {
+      $scope.slideIndex = $scope.slides.indexOf(s);
+    };
+
     $document.keydown(function(event) {
       if (event.keyCode == 37) {
         $scope.previousSlide();
