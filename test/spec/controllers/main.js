@@ -16,7 +16,16 @@ describe('Controller: MainCtrl', function () {
     });
   }));
 
-  it('should attach a list of awesomeThings to the scope', function () {
-    expect(scope.awesomeThings.length).toBe(3);
+  it('should increment slide index', function() {
+    scope.slideIndex = 0;
+    scope.nextSlide();
+    expect(scope.slideIndex).toBe(1);
   });
+
+  it('should decrement slide index', function() {
+    scope.slideIndex = 1;
+    scope.previousSlide();
+    expect(scope.slideIndex).toBe(0);
+  });
+
 });
