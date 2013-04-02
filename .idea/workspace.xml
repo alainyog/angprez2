@@ -4,7 +4,10 @@
     <list default="true" id="c9cb6605-eb54-451d-8c35-7765309f1524" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/controllers/main.js" afterPath="$PROJECT_DIR$/app/scripts/controllers/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/karma.conf.js" afterPath="$PROJECT_DIR$/karma.conf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/slide1.html" afterPath="$PROJECT_DIR$/app/slide1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/slide2.html" afterPath="$PROJECT_DIR$/app/slide2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/slide7.html" afterPath="$PROJECT_DIR$/app/slide7.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/spec/controllers/main.js" afterPath="$PROJECT_DIR$/test/spec/controllers/main.js" />
     </list>
     <ignored path="angprez2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +30,7 @@
       <file leaf-file-name="slide0.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/slide0.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="1035" selection-end="1035" vertical-scroll-proportion="-12.242424">
+            <state line="27" column="0" selection-start="1035" selection-end="1035" vertical-scroll-proportion="-13.090909">
               <folding />
             </state>
           </provider>
@@ -36,25 +39,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="55" selection-start="1652" selection-end="1652" vertical-scroll-proportion="-11.636364">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="karma.conf.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/karma.conf.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="366" selection-end="366" vertical-scroll-proportion="0.6010733">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/spec/controllers/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="640" selection-end="640" vertical-scroll-proportion="0.0">
+            <state line="37" column="63" selection-start="1743" selection-end="1743" vertical-scroll-proportion="-20.363636">
               <folding />
             </state>
           </provider>
@@ -63,16 +48,16 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="610" selection-end="610" vertical-scroll-proportion="0.0">
+            <state line="21" column="53" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slide1.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/slide1.html">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/spec/controllers/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="19" column="4" selection-start="488" selection-end="488" vertical-scroll-proportion="0.72271913">
               <folding />
             </state>
           </provider>
@@ -81,16 +66,7 @@
       <file leaf-file-name="slide2.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/slide2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="185" selection-end="185" vertical-scroll-proportion="-4.3636365">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="slide3.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/slide3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="1182" selection-end="1182" vertical-scroll-proportion="-12.242424">
+            <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -100,6 +76,42 @@
         <entry file="file://$PROJECT_DIR$/app/slide4.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="1" column="41" selection-start="65" selection-end="65" vertical-scroll-proportion="-0.72727275">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slide3.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/slide3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="0" selection-start="1182" selection-end="1182" vertical-scroll-proportion="-12.575758">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slide5.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/slide5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="41" selection-start="65" selection-end="65" vertical-scroll-proportion="-0.72727275">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slide6.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/slide6.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="44" selection-start="68" selection-end="68" vertical-scroll-proportion="-0.72727275">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slide7.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/slide7.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -118,8 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/compare.html" />
-        <option value="$PROJECT_DIR$/app/directive.html" />
         <option value="$PROJECT_DIR$/app/enplus.html" />
         <option value="$PROJECT_DIR$/app/links.html" />
         <option value="$PROJECT_DIR$/app/questions.html" />
@@ -127,13 +137,15 @@
         <option value="$PROJECT_DIR$/app/concepts-controller.html" />
         <option value="$PROJECT_DIR$/app/concepts-runtime.html" />
         <option value="$PROJECT_DIR$/app/slide0.html" />
-        <option value="$PROJECT_DIR$/test/spec/controllers/main.js" />
-        <option value="$PROJECT_DIR$/app/slide1.html" />
-        <option value="$PROJECT_DIR$/app/slide2.html" />
         <option value="$PROJECT_DIR$/app/slide3.html" />
-        <option value="$PROJECT_DIR$/app/scripts/controllers/main.js" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/karma.conf.js" />
+        <option value="$PROJECT_DIR$/app/data/slides.json" />
+        <option value="$PROJECT_DIR$/app/slide1.html" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/slide2.html" />
+        <option value="$PROJECT_DIR$/app/slide7.html" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/main.js" />
+        <option value="$PROJECT_DIR$/test/spec/controllers/main.js" />
       </list>
     </option>
   </component>
@@ -278,6 +290,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angprez2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angprez2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -335,12 +365,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="201" y="78" width="1024" height="742" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17782217" sideWeight="0.99601597" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17782217" sideWeight="0.99601597" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -408,11 +438,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/images/concepts-controller.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/images/concepts-runtime.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -428,31 +453,16 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/slide5.html">
+    <entry file="file://$PROJECT_DIR$/karma.conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="41" selection-start="65" selection-end="65" vertical-scroll-proportion="0.021367522" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/slide6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="44" selection-start="68" selection-end="68" vertical-scroll-proportion="0.021367522" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/slide7.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="28" selection-start="49" selection-end="49" vertical-scroll-proportion="0.021367522" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/slide0.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="1035" selection-end="1035" vertical-scroll-proportion="-12.242424">
+        <state line="14" column="0" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/spec/controllers/main.js">
+    <entry file="file://$PROJECT_DIR$/app/data/slides.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="640" selection-end="640" vertical-scroll-proportion="0.0">
+        <state line="58" column="1" selection-start="931" selection-end="931" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -466,14 +476,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/slide2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="185" selection-end="185" vertical-scroll-proportion="-4.3636365">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/slide3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="1182" selection-end="1182" vertical-scroll-proportion="-12.242424">
+        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="-0.0">
           <folding />
         </state>
       </provider>
@@ -485,23 +488,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
+    <entry file="file://$PROJECT_DIR$/app/slide3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="610" selection-end="610" vertical-scroll-proportion="0.0">
+        <state line="25" column="0" selection-start="1182" selection-end="1182" vertical-scroll-proportion="-12.575758">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/slide5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="41" selection-start="65" selection-end="65" vertical-scroll-proportion="-0.72727275">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/slide6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="44" selection-start="68" selection-end="68" vertical-scroll-proportion="-0.72727275">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/slide7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/slide0.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="1035" selection-end="1035" vertical-scroll-proportion="-13.090909">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="55" selection-start="1652" selection-end="1652" vertical-scroll-proportion="-11.636364">
+        <state line="37" column="63" selection-start="1743" selection-end="1743" vertical-scroll-proportion="-20.363636">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/karma.conf.js">
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="366" selection-end="366" vertical-scroll-proportion="0.6010733">
+        <state line="21" column="53" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/spec/controllers/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="4" selection-start="488" selection-end="488" vertical-scroll-proportion="0.72271913">
           <folding />
         </state>
       </provider>
