@@ -4,6 +4,8 @@ angular.module('angprez2App')
   .controller('MainCtrl', function ($scope, $document, $http, $log) {
     $scope.slideIndex = 0;
 
+    $scope.now = new Date();
+
     $http.get("/data/slides.json").success(function(data) {
       $scope.slides = data;
     }).error(function(data) {
