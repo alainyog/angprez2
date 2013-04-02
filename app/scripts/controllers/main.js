@@ -28,6 +28,13 @@ angular.module('angprez2App')
       $scope.slideIndex = $scope.slides.indexOf(s);
     };
 
+    $scope.addSlide = function(t, c) {
+      $scope.slides.push({
+        title : t,
+        content : c
+      });
+    };
+
     $document.keydown(function(event) {
       if (event.keyCode == 37) {
         $scope.previousSlide();

@@ -63,5 +63,9 @@
   {
     "title":"Filtres",
     "content":"filter.html"
+  },
+  {
+    "title":"Ajouter une slide",
+    "content":"form.html"
   }
 ]
